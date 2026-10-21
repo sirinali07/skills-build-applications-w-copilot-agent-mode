@@ -1,4 +1,5 @@
 # Maintainer validation
+#
 
 Run these checks before publishing or after changing exercise content, automation, the devcontainer, or the starter scaffold.
 
